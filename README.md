@@ -1,5 +1,5 @@
 ---
-**Author:** Meheraz Hosen Siam | [GitHub](https://github.com/meherazhosensiam) 🔗
+**Author:** Meheraz Hossen Siyam | [GitHub](https://github.com/meherazhosensiam) 🔗
 # 🔐 Password Robustness & Data Leak Checker
 
 A Python tool centered on cybersecurity that evaluates password strength and confirms if the password has been involved in recognized data breaches.
