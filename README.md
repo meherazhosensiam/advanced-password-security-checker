@@ -50,7 +50,7 @@ git clone https://github.com/meherazhosensiam/advanced-password-security-checker
 
 Enter the directory:
 cd advanced-password-security-checker
-# nstall requirements:
+# install requirements:
 pip install requests
 ## ▶️ Utilization
 
